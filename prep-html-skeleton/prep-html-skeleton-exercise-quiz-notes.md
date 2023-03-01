@@ -7,7 +7,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 - What tags are necessary for a complete HTML Skeleton?
   The tags necessary for a complete HTML skeleton are
     <!DOCTYPE html>, <html></html>, <head></head>,
-    <title></title>, <body></body>, <h1></h1><p></p>
+    <title></title>, <body></body>, <h1></h1><p></p>.
 - What type of content belongs within the `<head>` of an HTML document?
     The head element contains the meta information about the HTML page.
     This is where the <title> tag is placed
